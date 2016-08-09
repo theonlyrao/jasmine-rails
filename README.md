@@ -73,7 +73,7 @@ describe('Foo', function() {
   });
 });
 ```
-\*As noted above, spec_helper and foo.js must be required in order for foo_spec.js to run.
+\*'spec_helper' and 'foo.js' may need to be required in order for foo_spec.js to run.
 
 ## Spec files in engine
 
